@@ -322,7 +322,7 @@ section {
 }
 
 .text-container {
-  line-height: -2rem; /* Adjust the value for more or less space */
+  line-height: 2rem; /* Adjust the value for more or less space */
   margin-bottom: 1rem; /* Adds space between paragraphs */
   font-size: 1rem;
 }
