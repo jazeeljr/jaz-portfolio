@@ -314,8 +314,8 @@ section {
   flex: 1;
   background: white;
   border-radius: 2rem;
-  border: rgb(53, 53, 53) 0.1rem solid;
-  border-color: rgb(163, 163, 163);
+  border: rgb(254, 254, 254) 0.1rem solid;
+  border-color: rgb(255, 255, 255);
   text-align: center;
 }
 
@@ -329,7 +329,7 @@ section {
 .section-container {
   gap: 4rem;
   height: 60%;
-  border: 3.4px solid black ;
+  border: 3.4px solid rgb(255, 255, 255) ;
   
 }
 
