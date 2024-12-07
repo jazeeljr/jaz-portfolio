@@ -324,7 +324,7 @@ section {
 .text-container {
   line-height: -2rem; /* Adjust the value for more or less space */
   margin-bottom: 1rem; /* Adds space between paragraphs */
-  font-size: 18px;
+  font-size: 1rem;
 }
 
 
@@ -353,6 +353,7 @@ section {
   font-size: 2.5rem;
   margin-bottom: -2rem;
   margin-top: 3rem;
+  padding: 3rem;
 }
 
 .achievements-container {
