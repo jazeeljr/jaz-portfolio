@@ -327,19 +327,24 @@ section {
   text-align: center;
 }
 
-.text-container {
-  line-height: 2rem; /* Adjust the value for more or less space */
-  margin-bottom: 1rem; /* Adds space between paragraphs */
-  font-size: 4rem;
+.about-details-container .text-container p {
+  font-size: 1.1rem;
+  line-height: 2.8rem;
+  color: black;
 }
+
 
 
 .section-container {
   gap: 4rem;
   height: 60%;
-  border: 3.4px solid rgb(255, 255, 255) ;
-  
+  border: 3px solid #000; /* Black solid border */
+  border-radius: 1rem;
+  padding: 2rem;
+  background-color: #f9f9f9; /* Optional light background for contrast */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Optional subtle shadow */
 }
+
 
 .section__pic-container {
   height: 400px;
@@ -384,15 +389,15 @@ section {
 }
 
 .achievement1-img {
-  width: 350px;
+  width: 100%;
   height: 25rem;
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 .achievement2-img {
   width: 100%;
   height: 25rem;
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 .achievementtext-box {
