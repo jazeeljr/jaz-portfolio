@@ -509,6 +509,14 @@ article p {
 
 /* PROJECTS SECTION */
 
+.btn-container {
+  margin-top: 1rem; /* Adjust as needed */
+}
+
+
+.project-img-crypto {
+  border-radius: 0.3rem; /* Less rounded corners */
+}
 
 
 .color-container {
